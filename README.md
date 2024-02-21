@@ -12,9 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ron ashwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Itamar Epstein" height="30" width="30" /></a>
-<a href="mailto:Itamarepstein123@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="30" />
-</a>
+<a href="mailto:Itamarepstein123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="30" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
